@@ -1,1 +1,8 @@
 /* compnents/common/home/HomeSwiper.wxss */
+.swiper-item{
+  display: block;
+  height: 100%;
+}
+.home-swiper{
+  height: 195px;
+}
