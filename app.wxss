@@ -1,0 +1,21 @@
+@import  "./styles/iconfont.wxss";
+
+/* 微信中不支持通配符，所有一个一个添加 */
+page,view,text,swiper,swiper-item,image,navigator{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* 主题深颜色，通过变量实现
+1 less中存在变量这个知识
+2 原生css和wxss也是支持
+*/
+page{
+  /* 定义主图颜色 */
+  --themColor:#ff8198;
+
+  /* 定义统一的字体大小 */
+  font-size: 28px;
+
+}

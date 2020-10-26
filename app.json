@@ -1,7 +1,6 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/home/index",
     "pages/category/index", 
     "pages/goods_list/index",
     "pages/goods_detail/index",
@@ -23,7 +22,7 @@
   "tabBar": {
     "list": [
       {
-        "pagePath": "pages/home/index",
+        "pagePath": "pages/index/index",
         "text": "首页",
         "iconPath": "icons/tabbar/home.png",
         "selectedIconPath": "icons/tabbar/home-o.png"

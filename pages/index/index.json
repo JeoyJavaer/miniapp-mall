@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "navigationBarBackgroundColor":"#ff8198",
+  "navigationBarTextStyle":"white",
+  "navigationBarTitleText":"购物街"
 }
