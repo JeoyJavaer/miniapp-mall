@@ -77,9 +77,10 @@
           "scene": null
         },
         {
-          "id": -1,
-          "name": "pages/home/home",
-          "pathName": "pages/home/home",
+          "id": 1,
+          "name": "pages/home/index",
+          "pathName": "pages/home/index",
+          "query": "",
           "scene": null
         }
       ]
